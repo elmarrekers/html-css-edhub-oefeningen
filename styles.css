@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', 'Arial', sans-serif;
+    background-color: hsl(280, 13%, 87%);
+    color: hsl(223, 10%, 36%);
+}
+
+h1 {
+    background-color: hsl(280, 13%, 87%);
+    color: hsl(281, 26%, 48%);
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    background-color: hsl(280, 13%, 87%);
+    color: hsl(281, 26%, 48%);
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+h3 {
+    background-color: hsl(280, 13%, 87%);
+    color: hsl(281, 26%, 48%);
+}
+
+#introduction {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
+}
+
+button {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(281, 26%, 48%);
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+button:hover {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(60, 100%, 25%);
+    font-size: 20px;
+    padding: 5px 5px;
+}
